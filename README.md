@@ -10,4 +10,4 @@ Understanding and working with media by **embedding a YouTube video** into webpa
 ## Mobile and smaller screens
 ![Pre-Enrollment-BootCamp-mobile](https://user-images.githubusercontent.com/97234029/226184186-9a215295-1108-4cc7-9cd3-46603e02314f.png)
 
-## Follow this link in case you want to view the live project [https://playful-rolypoly-7a26f2.netlify.app/]
+Click this link in case you want to view the live project [https://playful-rolypoly-7a26f2.netlify.app/]
