@@ -8,3 +8,5 @@ Understanding and working with media by **embedding a YouTube video** into webpa
 ![Pre-Enrollment-BootCamp-tablet](https://user-images.githubusercontent.com/97234029/226178742-a27fd997-38e7-4398-8b72-055c130fd2d2.png)
 
 ## Mobile and smaller screens
+![Pre-Enrollment-BootCamp-mobile](https://user-images.githubusercontent.com/97234029/226184186-9a215295-1108-4cc7-9cd3-46603e02314f.png)
+
